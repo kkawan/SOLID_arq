@@ -1,0 +1,16 @@
+{
+  "name": "kawanshigueowatanabe_ativiadepatterns",
+  "version": "1.0.0",
+  "description": "Atividade individual de Design Patterns em TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "start:dist": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  }
+}
